@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\bin\Debug\netcoreapp3.1\Enrtidades.deps.json
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\bin\Debug\netcoreapp3.1\Enrtidades.dll
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\bin\Debug\netcoreapp3.1\Enrtidades.pdb
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\obj\Debug\netcoreapp3.1\Enrtidades.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\obj\Debug\netcoreapp3.1\Enrtidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\obj\Debug\netcoreapp3.1\Enrtidades.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\obj\Debug\netcoreapp3.1\Enrtidades.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\obj\Debug\netcoreapp3.1\Enrtidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\obj\Debug\netcoreapp3.1\Enrtidades.dll
+C:\Users\Administrator\source\repos\Ejercicio48\Enrtidades\obj\Debug\netcoreapp3.1\Enrtidades.pdb

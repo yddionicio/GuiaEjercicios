@@ -1,0 +1,34 @@
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.exe
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.deps.json
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.runtimeconfig.json
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.dll
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.pdb
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.dll
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.pdb
+C:\Users\Administrator\source\repos\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.exe
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.deps.json
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.runtimeconfig.json
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.dll
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Consolita.pdb
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.csproj.CopyComplete
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.dll
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.pdb
+C:\Users\Administrator\source\repos\GuiaEjercicios-Parte II\Ejercicio42\Consolita\obj\Debug\netcoreapp3.1\Consolita.genruntimeconfig.cache
